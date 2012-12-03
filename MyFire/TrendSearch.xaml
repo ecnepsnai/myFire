@@ -1,0 +1,11 @@
+﻿<Window x:Class="TrendSearch"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="MyFire | Search Trends" Height="329" Width="347" Icon="/MyFire;component/Resources/Retro-Fire-Ball.ico" WindowStyle="ThreeDBorderWindow" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize">
+    <Grid>
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="12,12,0,0" Name="TextBlock1" Text="Search trending topics..." VerticalAlignment="Top" Width="143" FontSize="15" FontStyle="Italic" />
+        <Button Content="Select" Height="23" HorizontalAlignment="Right" Margin="0,0,12,11" Name="SelectButton" VerticalAlignment="Bottom" Width="75" />
+        <Button Content="Cancel" Height="23" HorizontalAlignment="Right" Margin="0,0,93,11" Name="CancelButton" VerticalAlignment="Bottom" Width="75" />
+        <ListBox Margin="12,41,12,40" Name="ListBox1" />
+    </Grid>
+</Window>

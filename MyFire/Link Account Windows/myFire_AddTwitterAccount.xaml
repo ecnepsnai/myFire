@@ -1,0 +1,10 @@
+﻿<Window x:Class="myFire_AddTwitterAccount"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="myFire | Add Twitter Account" 
+    Width="850" Height="550" Icon="/MyFire;component/Resources/Retro-Fire-Ball.ico" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <WebBrowser Name="LinkingBrowser" Margin="0,22,0,0"/>
+        <TextBox Name="URLbox" Height="Auto" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

@@ -1,0 +1,50 @@
+﻿<Window x:Class="MyFire_HowTo"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Welcome to myFire!" Height="344" Width="554" Icon="/MyFire;component/Resources/Retro-Fire-Ball.ico" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <TabControl Margin="12" Name="TabControl1">
+            <TabItem Header="The Timeline" Name="TabItem1">
+                <Grid>
+                    <TextBlock Height="53" Margin="6,6,6,0" Name="TextBlock1" Text="myFire is a full featured Twitter Client,  and the heart of it all is the Timeline, you will spend most of your time with myFire here, so these are some awesome tricks to make your experience even better!" VerticalAlignment="Top" TextWrapping="Wrap" TextAlignment="Justify" />
+                    <TextBlock Height="79.04" Margin="6,131,6,0" x:Name="TextBlock2" TextAlignment="Justify" TextWrapping="Wrap" VerticalAlignment="Top" ><Run FontWeight="Bold" Text="To reply to a tweet"/><Run Text=", simply double click on the Tweet to open the Reply dialog."/><LineBreak/><Run FontWeight="Bold" Text="To ReTweet a tweet"/><Run Text=", hold the Ctrl key and double click on the tweet to ReTweet it."/><LineBreak/><Run FontWeight="Bold" Text="To Favourite a tweet"/><Run Text=", hold down the Alt key and double click on the tweet to favourite it.  "/><LineBreak/><Run FontWeight="Bold" Text="To Translate a tweet"/><Run Text=", hold down the shift key and double click on the tweet to translate it."/><LineBreak/><Run FontWeight="Bold" Text="To view more info on a tweet"/><Run Text=", using the right mouse button, double click on the tweet."/></TextBlock>
+                    <TextBlock Height="26" Margin="6,0,8,8" TextWrapping="Wrap" Text="Go ahead, try it on the tweet above." VerticalAlignment="Bottom" FontStyle="Italic" FontSize="16"/>
+                    <ListBox Background="White" BorderBrush="#FFBEBEBE" HorizontalContentAlignment="Stretch" ItemTemplate="{DynamicResource TweetListTemplete}" Margin="6,58,6,0" Name="TMList" ScrollViewer.HorizontalScrollBarVisibility="Disabled" Height="67" VerticalAlignment="Top" />
+                    <Button Content="Next" Height="28" HorizontalAlignment="Right" Margin="0,0,8,6" Name="Button1" VerticalAlignment="Bottom" Width="100" FontSize="13" FontStyle="Italic" />
+                </Grid>
+            </TabItem>
+            <TabItem Header="Search" Name="TabItem2">
+                <Grid>
+                    <TextBlock Height="53" Margin="6,6,6,0" Name="TextBlock3" Text="myFire also features a powerful search feature!  Click the Discover tab to access Trending Topics, Tweet Search, and User Search right from the home screen!" TextAlignment="Justify" TextWrapping="Wrap" VerticalAlignment="Top" />
+                    <Button Content="Next" FontSize="13" FontStyle="Italic" Height="28" HorizontalAlignment="Right" Margin="0,0,6,6" Name="Button2" VerticalAlignment="Bottom" Width="100" />
+                </Grid>
+            </TabItem>
+            <TabItem Header="User Profile" Name="TabItem3">
+                <Grid>
+                    <TextBlock Height="53" Margin="6,6,6,0" Name="TextBlock4" Text="myFire has a very powerful User Profile window too!  From there, you can view all information about the user, including their Tweets, Favourites, Followers, Friends, Basic Information, Mentions, and more!" TextAlignment="Justify" TextWrapping="Wrap" VerticalAlignment="Top" />
+                    <Button Content="View user profile for @ecnepsnai" FontSize="13" FontStyle="Italic" Height="28" Margin="6,60,6,0" Name="profile_ecnepsnai" VerticalAlignment="Top" />
+                    <Button Content="View user profile for @MyFireApp" FontSize="13" FontStyle="Italic" Height="28" Margin="6,94,6,0" Name="profile_myfire" VerticalAlignment="Top" />
+                    <Button Content="View user profile for @Twitter" FontSize="13" FontStyle="Italic" Height="28" Margin="6,128,6,0" Name="profile_twitter" VerticalAlignment="Top" />
+                    <Button Content="Next" FontSize="13" FontStyle="Italic" Height="28" HorizontalAlignment="Right" Margin="0,0,6,6" Name="Button6" VerticalAlignment="Bottom" Width="100" />
+                </Grid>
+            </TabItem>
+            <TabItem Header="Multiple Accounts" Name="TabItem4">
+                <Grid>
+                    <TextBlock Height="53" Margin="6,6,6,0" Text="myFire supports multiple user accounts.  To switch accounts, select the Users button from the home screen and double click on the user you wish to switch to.  You can add or delete users by slecting the Menu button in the Users panel." TextAlignment="Justify" TextWrapping="Wrap" VerticalAlignment="Top" />
+                    <Button Content="Add another Twitter account!" FontSize="13" FontStyle="Italic" Height="28" Margin="6,57,6,0" Name="Add_Twitter_Account" VerticalAlignment="Top" />
+                    <Button Content="Next" FontSize="13" FontStyle="Italic" Height="28" HorizontalAlignment="Right" Margin="0,0,6,6" Name="next_6" VerticalAlignment="Bottom" Width="100" />
+                </Grid>
+            </TabItem>
+            <TabItem Header="Finally..." Name="TabItem5">
+                <Grid>
+                    <Button Content="Finish!" FontSize="13" FontStyle="Italic" Height="28" HorizontalAlignment="Right" Margin="0,0,6,6" Name="Button7" VerticalAlignment="Bottom" Width="100" />
+                    <TextBlock Height="53" Margin="6,6,6,0" Name="TextBlock5" Text="myFire also has many small features that make the app so much better!  You will discover them as you use the app more.  But before you get started please consider:" TextAlignment="Justify" TextWrapping="Wrap" VerticalAlignment="Top" />
+                    <Button Content="Follow @ecnepsnai (Dev)" FontSize="13" FontStyle="Italic" Height="28" Margin="6,43,6,0" Name="follow_ecnepsnai" VerticalAlignment="Top" />
+                    <Button FontSize="13" FontStyle="Italic" Height="28" Margin="6,77,6,0" Name="follow_twinnedchimera" VerticalAlignment="Top" Content="Follow @twinnedchimera (Testing)" />
+                    <Button Content="Follow @MyFireApp (News)" FontSize="13" FontStyle="Italic" Height="28" Margin="6,111,6,0" Name="follow_myfireapp" VerticalAlignment="Top" />
+                    <Button Content="Contribute to myFire!" FontSize="14" FontStyle="Italic" Height="35" Margin="6,145,6,0" Name="Button3" VerticalAlignment="Top" />
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

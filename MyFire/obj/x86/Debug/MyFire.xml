@@ -1,0 +1,868 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MyFire
+</name>
+</assembly>
+<members>
+<member name="M:MyFire.myFire_FilterTweets.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.myFire_FilterTweets">
+	<summary>
+myFire_FilterTweets
+</summary>
+</member><member name="M:MyFire.TrendSearch.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.TrendSearch">
+	<summary>
+TrendSearch
+</summary>
+</member><member name="M:MyFire.UserProfile.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.UserProfile">
+	<summary>
+UserProfile
+</summary>
+</member><member name="M:MyFire.Support_MoreInfo.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.Support_MoreInfo">
+	<summary>
+Support_MoreInfo
+</summary>
+</member><member name="M:MyFire.MyFire_HowTo.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.MyFire_HowTo">
+	<summary>
+MyFire_HowTo
+</summary>
+</member><member name="M:MyFire.MainWindow.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.MainWindow">
+	<summary>
+MainWindow
+</summary>
+</member><member name="M:MyFire.myFire_unsafelink.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.myFire_unsafelink">
+	<summary>
+myFire_unsafelink
+</summary>
+</member><member name="M:MyFire.Application.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:MyFire.Application.Main">
+	<summary>
+Application Entry Point.
+</summary>
+</member><member name="T:MyFire.Application">
+	<summary>
+Application
+</summary>
+</member><member name="M:MyFire.myFire_WelcomeScreen.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.myFire_WelcomeScreen">
+	<summary>
+myFire_WelcomeScreen
+</summary>
+</member><member name="M:MyFire.EditProfile.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.EditProfile">
+	<summary>
+EditProfile
+</summary>
+</member><member name="M:MyFire.myFire_ConversationView.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.myFire_ConversationView">
+	<summary>
+myFire_ConversationView
+</summary>
+</member><member name="M:MyFire.MessageWindow.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.MessageWindow">
+	<summary>
+MessageWindow
+</summary>
+</member><member name="M:MyFire.myFire_direct_messages.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.myFire_direct_messages">
+	<summary>
+myFire_direct_messages
+</summary>
+</member><member name="M:MyFire.myFire_TweetSearchList.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.myFire_TweetSearchList">
+	<summary>
+myFire_TweetSearchList
+</summary>
+</member><member name="M:MyFire.myFire_AddTwitterAccount.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.myFire_AddTwitterAccount">
+	<summary>
+myFire_AddTwitterAccount
+</summary>
+</member><member name="M:MyFire.myFire_EditListMembers.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.myFire_EditListMembers">
+	<summary>
+myFire_EditListMembers
+</summary>
+</member><member name="M:MyFire.myFire_notificationwindow_general.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.myFire_notificationwindow_general">
+	<summary>
+myFire_notificationwindow_general
+</summary>
+</member><member name="M:MyFire.Settings.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.Settings">
+	<summary>
+Settings
+</summary>
+</member><member name="M:MyFire.myFire_suggestedusers.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.myFire_suggestedusers">
+	<summary>
+myFire_suggestedusers
+</summary>
+</member><member name="M:MyFire.Support.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.Support">
+	<summary>
+Support
+</summary>
+</member><member name="M:MyFire.UserSearch.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.UserSearch">
+	<summary>
+UserSearch
+</summary>
+</member><member name="M:MyFire.myFire_Lists.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.myFire_Lists">
+	<summary>
+myFire_Lists
+</summary>
+</member><member name="M:MyFire.myFire_supportmyfire.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.myFire_supportmyfire">
+	<summary>
+myFire_supportmyfire
+</summary>
+</member><member name="M:MyFire.TweetDisplayDialog.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.TweetDisplayDialog">
+	<summary>
+TweetDisplayDialog
+</summary>
+</member><member name="M:MyFire.TweetDialog.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.TweetDialog">
+	<summary>
+TweetDialog
+</summary>
+</member><member name="M:MyFire.myFire_manuallink.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.myFire_manuallink">
+	<summary>
+myFire_manuallink
+</summary>
+</member><member name="M:MyFire.myFire_TweetList.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.myFire_TweetList">
+	<summary>
+myFire_TweetList
+</summary>
+</member><member name="M:MyFire.NotificationWindow.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.NotificationWindow">
+	<summary>
+NotificationWindow
+</summary>
+</member><member name="M:MyFire.myFire_About.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.myFire_About">
+	<summary>
+myFire_About
+</summary>
+</member><member name="M:MyFire.myFire_EditList.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.myFire_EditList">
+	<summary>
+myFire_EditList
+</summary>
+</member><member name="M:MyFire.myFire_pictureviewer.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.myFire_pictureviewer">
+	<summary>
+myFire_pictureviewer
+</summary>
+</member><member name="M:MyFire.myFire_UserManagment.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.myFire_UserManagment">
+	<summary>
+myFire_UserManagment
+</summary>
+</member><member name="M:MyFire.FatalError.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.FatalError">
+	<summary>
+FatalError
+</summary>
+</member><member name="M:MyFire.myFire_UserSearch_List.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:MyFire.myFire_UserSearch_List">
+	<summary>
+myFire_UserSearch_List
+</summary>
+</member><member name="M:MyFire.myFire_ConversationView.Show_Conversation(Twitterizer.TwitterStatus,System.String)">
+	<summary>
+ Creates a new dialog with the initial conversation loaded and ready for reply.
+ </summary>
+	<param name="InitialStatus">The initial status to load the conversation from.</param>
+	<remarks></remarks>
+</member><member name="M:MyFire.TweetDisplayDialog.Hyperclick_Link(System.Windows.Documents.Hyperlink,System.Windows.RoutedEventArgs)">
+	<summary>
+ Can block grass?
+ </summary>
+</member><member name="P:MyFire.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:MyFire.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:MyFire.My.Resources.Resources._256">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MyFire.My.Resources.Resources.BarCodeHS">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MyFire.My.Resources.Resources.BingAppID">
+	<summary>
+  Looks up a localized string similar to B43010F3640B313F5952E155EE87C6A426C958AD.
+</summary>
+</member><member name="P:MyFire.My.Resources.Resources.BingMapsAPI">
+	<summary>
+  Looks up a localized string similar to AsOOzrYgLz0dI5Q0jVmmG-qNmN6VWP1JtUMvZJF3Lxok_VsWoxX1UHLIAlJ6Ph09.
+</summary>
+</member><member name="P:MyFire.My.Resources.Resources.eps_closedHS">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MyFire.My.Resources.Resources.InsertPictureHS">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MyFire.My.Resources.Resources.music">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MyFire.My.Resources.Resources.notif">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:MyFire.My.Resources.Resources.Retro_Fire_Ball">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:MyFire.My.Resources.Resources.twitter_bg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MyFire.My.Resources.Resources.user_comment">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MyFire.My.Resources.Resources.wrench">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:MyFire.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:MyFire.My.MyWpfExtension.Application">
+	<summary>
+ Returns the application object for the running application
+ </summary>
+</member><member name="P:MyFire.My.MyWpfExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:MyFire.My.MyWpfExtension.User">
+	<summary>
+ Returns information for the current user.  If you wish to run the application with the current 
+ Windows user credentials, call My.User.InitializeWithWindowsUser().
+ </summary>
+</member><member name="P:MyFire.My.MyWpfExtension.Log">
+	<summary>
+ Returns the application log. The listeners can be configured by the application's configuration file.
+ </summary>
+</member><member name="P:MyFire.My.MyWpfExtension.Windows">
+	<summary>
+ Returns the collection of Windows defined in the project.
+ </summary>
+</member><member name="T:MyFire.My.MyWpfExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for WPF
+ </summary>
+	<remarks></remarks>
+</member><member name="M:MyFire.streamingmanager.InitiateStream(System.String)">
+	<summary>
+ Initiates the TwitterStream for the session.
+ </summary>
+	<param name="ScreenName">The screen name of the first user to track.</param>
+</member><member name="M:MyFire.streamingmanager.AddUserStream(System.String)">
+	<summary>
+ Adds the specified user to the tracking list.
+ </summary>
+	<param name="ScreenName">The user to add.</param>
+</member><member name="M:MyFire.streamingmanager.StopUserStream(System.String)">
+	<summary>
+ Removes the specified user from the tracking list.
+ </summary>
+	<param name="ScreenName">The user to remove.</param>
+	<remarks></remarks>
+</member><member name="M:MyFire.streamingmanager.TerminateStream">
+	<summary>
+ Stops the stream and disposes all resources.
+ </summary>
+</member><member name="M:MyFire.myfireactions.myFire_CheckWindowsVersion">
+	<summary>
+ Checks is the host OS is supported.  If false, do not provide support.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.myFire_exp_autoreport(Twitterizer.TwitterStatus)">
+	<summary>
+ //EXPIREMENTAL FEATURE//  If the host user does not follow the creator of this tweet.  He will be automatically reported.
+ </summary>
+	<param name="Tweet">The TwitterStatus containing the mention.</param>
+	<remarks>//EXPIREMENTAL FEATURE//</remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Explore_TopTweets(System.Int32)">
+	<summary>
+ Gets the TopTweets from Twitter.
+ </summary>
+	<param name="NumberOfStatuses">The number of statuses that can be returned.  Must be larger than 1 and smaller than 200.</param>
+</member><member name="M:MyFire.myfireactions.LoadSiteIfSafe(System.String)">
+	<summary>
+ Loads the URL if the site is safe.  Not for use with t.co links.
+ </summary>
+</member><member name="M:MyFire.myfireactions.myFire_Commands(System.String)">
+	<summary>
+ Tweetbox commands
+ </summary>
+	<param name="CommandChunk">The command and parameters</param>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.GetAdvertisementSources">
+	<summary>
+ Gets a list of advertisement sources from the web server.
+ </summary>
+</member><member name="M:MyFire.myfireactions.GetUpdateResult(System.String)">
+	<summary>
+ Gets the update result for the specified or current version.
+ </summary>
+</member><member name="M:MyFire.myfireactions.IsSiteSafe(System.String)">
+	<summary>
+ Gets the GoogleSafeSearch result for the URL.  True meaning site is safe.
+ </summary>
+	<param name="url">The URL in string form of the site.</param>
+	<returns>A <see>Boolean</see> defining the result.</returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Status_Update(System.String,System.Decimal,System.String,System.Decimal,System.Decimal)">
+	<summary>
+ Posts a tweet to the authorized users timeline.
+ </summary>
+	<param name="Text">The tweet text.</param>
+	<param name="InReplyToId">The ID of the status this tweet is replying to.</param>
+	<param name="Path">An absolute path to an Image file.</param>
+	<param name="glat">The latitude of the user.</param>
+	<param name="glon">The longitude of the user.</param>
+	<remarks>Tweet text must not be greater than 140 characters.</remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Status_Delete(System.Decimal)">
+	<summary>
+ Deletes the specified tweet.
+ </summary>
+	<param name="TweetID">The id of the Tweet you want to delete.</param>
+	<remarks>Must be a tweet from the authenticated user.</remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Status_Favourite(System.Decimal)">
+	<summary>
+ Adds the specified Tweet to the authenticated users favourite list.
+ </summary>
+	<param name="TweetID">The ID of the Tweet you wish to favourite.</param>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Status_Retweet(System.Decimal)">
+	<summary>
+ Retweets the specified Tweet.
+ </summary>
+	<param name="TweetID">The ID of the Tweet you wish to retweet.</param>
+	<remarks>The user of the Tweet must not be protected.</remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Status_Show(System.Decimal)">
+	<summary>
+ Gets the Tweet associated with the ID.
+ </summary>
+	<param name="TweetID">The ID you wish to lookup.</param>
+	<returns>A TwitterStatus object of the Tweet ID</returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Status_Translate(System.String)">
+	<summary>
+ Translates the tweet into English.
+ </summary>
+	<param name="Text">The tweet.</param>
+	<returns>A translated tweet in English.</returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Status_FilterTweet(Twitterizer.TwitterStatus)">
+	<summary>
+ Returns true if the tweet passes the filter check.  If false do not show the tweet.
+ </summary>
+	<param name="Tweet">The status.</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Search_Tweets(System.String)">
+	<summary>
+ Searches TwitterStatuses containing the query.
+ </summary>
+	<param name="query">The search query.</param>
+	<returns>A collection of twitter search results.</returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Search_Users(System.String)">
+	<summary>
+ Searches the twitter user collection for the specified query.
+ </summary>
+	<param name="query">The search query.</param>
+	<returns>A collection on TwitterUsers.</returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_User_Lookup(System.Decimal)">
+	<summary>
+ Gets the TwitterUser associated with the ID.
+ </summary>
+	<param name="UserId">The UserId of the user.</param>
+	<returns>A <see>TwitterUser</see> object.</returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_User_Report(System.Decimal)">
+	<summary>
+ Reports the specified user to the TwitterSpam team.
+ </summary>
+	<param name="UserId">The UserId of the user.</param>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_User_Friends(System.Decimal)">
+	<summary>
+ Returns a list of Users the the specified user follows.
+ </summary>
+	<param name="UserId">The User Id.</param>
+	<returns>A list of TwitterUser.</returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_User_Followers(System.Decimal)">
+	<summary>
+ Returns a list of Users that follow the specified user.
+ </summary>
+	<param name="UserId">The User Id.</param>
+	<returns>A list of TwitterUser.</returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Friendship_Create(System.Decimal)">
+	<summary>
+ Follows the specified user.
+ </summary>
+	<param name="UserId">The UserId of the user.</param>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Friendship_Delete(System.Decimal)">
+	<summary>
+ Unfollows the specified user.
+ </summary>
+	<param name="UserId">The UserId of the user.</param>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Friendship_Create(System.String)">
+	<summary>
+ Follows the specified user.
+ </summary>
+	<param name="ScreenName">The ScreenName of the user.</param>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Friendship_Delete(System.String)">
+	<summary>
+ Unfollows the specified user.
+ </summary>
+	<param name="ScreenName">The ScreenName of the user.</param>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Friendship_FollowsMe(System.String)">
+	<summary>
+ Does this user follow me?
+ </summary>
+	<param name="ScreenName">The Users ScreenName</param>
+	<returns>A boolean.</returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Friendship_Following(System.String)">
+	<summary>
+ Do I follow this user&gt;
+ </summary>
+	<param name="ScreenName">The Users ScreenName</param>
+	<returns>A boolean.</returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Favourites(System.Decimal)">
+	<summary>
+ Returns the 20 most recent favorite statuses for the authenticating user or user specified by the ID parameter in the requested format.
+ </summary>
+	<param name="UserId">The ID or screen name of the user for whom to request a list of favorite statuses.</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_List_Get">
+	<summary>
+ Returns the lists that the authenticated user follows, including private lists.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_List_Get_All">
+	<summary>
+ Returns all lists the authenticating or specified user subscribes to, including their own.
+ </summary>
+</member><member name="M:MyFire.myfireactions.Twitter_List_Create(System.String,System.Boolean,System.String)">
+	<summary>
+ Creates a new list for the authenticated user. Note that you can't create more than 20 lists per account.
+ </summary>
+	<param name="ListName">The name for the list.</param>
+	<param name="IsPublic">Whether your list is public or private. Values can be public or private. If no mode is specified the list will be public.</param>
+	<param name="Description">The description to give the list.</param>
+</member><member name="M:MyFire.myfireactions.Twitter_List_Destroy(System.Decimal)">
+	<summary>
+ Deletes the specified list. The authenticated user must own the list to be able to destroy it.
+ </summary>
+	<param name="ListId">The numerical id of the list.</param>
+</member><member name="M:MyFire.myfireactions.Twitter_List_Update(System.Decimal,Twitterizer.UpdateListOptions)">
+	<summary>
+ Updates the specified list. The authenticated user must own the list to be able to update it.
+ </summary>
+	<param name="ListId">The numerical id of the list.</param>
+</member><member name="M:MyFire.myfireactions.Twitter_List_Members(System.Decimal)">
+	<summary>
+ Returns the members of the specified list. Private list members will only be shown if the authenticated user owns the specified list.
+ </summary>
+	<param name="ListId">The numerical id of the list.</param>
+</member><member name="M:MyFire.myfireactions.Twitter_List_Members_Create(System.Decimal,System.String)">
+	<summary>
+ Add a member to a list. The authenticated user must own the list to be able to add members to it. Note that lists can't have more than 500 members.
+ </summary>
+	<param name="ListId">The numerical id of the list.</param>
+	<param name="ScreenName">The Screen Name of the user.</param>
+</member><member name="M:MyFire.myfireactions.Twitter_List_Members_Destroy(System.Decimal,System.String)">
+	<summary>
+ Removes the specified member from the list. The authenticated user must be the list's owner to remove members from the list.
+ </summary>
+	<param name="ListId">The numerical id of the list.</param>
+	<param name="ScreenName">The Screen Name of the user.</param>
+</member><member name="M:MyFire.myfireactions.Twitter_List_Tweets(System.Decimal,System.String)">
+	<summary>
+ Gets the statuses from the twitter list.
+ </summary>
+	<param name="ListId">The ListID</param>
+	<param name="ScreenName">The screen name of the user.</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Block_Create(System.Decimal)">
+	<summary>
+ Blocks the specified user.
+ </summary>
+	<param name="UserId">The UserId of the user.</param>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Block_Destroy(System.Decimal)">
+	<summary>
+ Unblocks the specified user.
+ </summary>
+	<param name="UserId">The UserId of the user.</param>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Timeline_Home">
+	<summary>
+ Gets the home timeline for the authenticated user.
+ </summary>
+	<returns>A list of Tweets.</returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Timeline_Mentions">
+	<summary>
+ Gets the mentions timeline for the authenticated user.
+ </summary>
+	<returns>A list of Tweets.</returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Timeline_User(System.String)">
+	<summary>
+ Gets the timeline of the specified user.
+ </summary>
+	<param name="UserId">The UserId of the user.</param>
+	<returns>A list of Tweets.</returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Timeline_User_Mentions(System.String)">
+	<summary>
+ Gets the mentions of the specified user.
+ </summary>
+	<param name="UserId">The UserId of the user.</param>
+	<returns>A list of Tweets.</returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Timeline_User_Favourites(System.Decimal)">
+	<summary>
+ Gets the favourites of the specified user.
+ </summary>
+	<param name="UserId">The UserId of the user.</param>
+	<returns>A list of Tweets.</returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Timeline_Public">
+	<summary>
+ Gets the public timeline.
+ </summary>
+	<returns>A list of Tweets.</returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Timeline_Retweets_ByOthers">
+	<summary>
+ Gets a list of retweets from users following list.
+ </summary>
+	<returns>A list of Tweets.</returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Timeline_Retweets_ByMe">
+	<summary>
+ Gets a list of retweets from users Timeline.
+ </summary>
+	<returns>A list of Tweets.</returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Timeline_Retweets_MyTweets">
+	<summary>
+ Gets a list of your tweets that have been retweeted.
+ </summary>
+	<returns>A list of Tweets.</returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Trends(System.Int32)">
+	<summary>
+ Gets the current trending topics.
+ </summary>
+	<param name="WOEID">The Yahoo where on earth ID.  1 for worldwide</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Account_Update(System.String,System.String,System.String,System.String)">
+	<summary>
+ Updates the public settings of the authenticated user.
+ </summary>
+	<param name="Name">Name</param>
+	<param name="Description">Description</param>
+	<param name="Location">Location</param>
+	<param name="URL">URL</param>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Account_UpdateProfileImage(System.String)">
+	<summary>
+ Updates the profile image of the user.
+ </summary>
+	<param name="Path">An absolute path to a file.</param>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Account_UpdateBackgroundImage(System.String)">
+	<summary>
+ Updates the profile background image of the user.
+ </summary>
+	<param name="Path">An absolute path to a file.</param>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Account_Verify">
+	<summary>
+ Verifies the current token set.
+ </summary>
+	<remarks>True meaning valid token set.</remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_Account_Verify(System.Decimal,System.Decimal,System.Decimal,System.Decimal)">
+	<summary>
+ Verifies the specifies token set.
+ </summary>
+	<param name="ConsumerToken">The consumer key.</param>
+	<param name="ConsumerSecret">The secret consumer key.</param>
+	<param name="AccessToken">The users access token.</param>
+	<param name="AccessSecret">The users secret access token.</param>
+	<remarks>True meaning valid token set.</remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_DirectMessage_Get">
+	<summary>
+ Gets a list of the users direct messages.
+ </summary>
+	<returns>A list of <see>TwitterDirectMessage</see>s.</returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_DirectMessage_Post(System.String,System.String)">
+	<summary>
+ Sends a direct message to the specified user.
+ </summary>
+	<param name="Text">The text of the message.</param>
+	<param name="UserId">The user.</param>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_DirectMessage_Delete(System.Decimal)">
+	<summary>
+ Deletes a direct message.
+ </summary>
+	<param name="MessageId">The MessageId</param>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Twitter_DirectMessage_Show(System.Decimal)">
+	<summary>
+ Return a single DirectMessage of the specified Id.
+ </summary>
+	<param name="MessageId">The ID of the message.</param>
+	<returns>A <see>TwitterDirectMessage</see>.</returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.TwitPic_ImageThumbnail(System.String)">
+	<summary>
+ Gets the image thumbnail for the specified URL
+ </summary>
+	<param name="URL">The TwitPic url.  Must be in an expanded state (contains http://)</param>
+	<returns>The image source to the image.</returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.TwitPic_Image(System.String)">
+	<summary>
+ Gets the RAW image file for the specified ID.
+ </summary>
+</member><member name="M:MyFire.myfireactions.yfrog_ImageThumbnail(System.String)">
+	<summary>
+ Gets the image thumbnail for the specified URL.
+ </summary>
+	<param name="URL">The yfrog url.  Must be in an expanded state (containing http://)</param>
+	<returns>The image source to the image.</returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.YouTube_VideoThumbnail(System.String)">
+	<summary>
+ Gets the video thumbnail for the specified video.
+ </summary>
+	<param name="URL">The YouTube url.  Must be in an expanded state (containing https://)</param>
+	<returns>The image source to the image.</returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Notification_CreateIcon">
+	<summary>
+ Creates the NotificationIcon object.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Notification_DestroyIcon">
+	<summary>
+ Destroys the NotificationIcon object.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:MyFire.myfireactions.Notification_Show_Mention(Twitterizer.TwitterStatus)">
+	<summary>
+ Display a notification.
+ </summary>
+</member><member name="M:MyFire.myfireactions.Notification_Show_Status(Twitterizer.TwitterStatus)">
+	<summary>
+ Display a notification.
+ </summary>
+</member><member name="M:MyFire.myfireactions.Notification_Show_Message(Twitterizer.TwitterDirectMessage)">
+	<summary>
+ Display a notification.
+ </summary>
+</member><member name="M:MyFire.myfireactions.Notification_Show_Test(System.String,System.String,System.Windows.Forms.ToolTipIcon,System.Int32)">
+	<summary>
+ Display a notification.
+ </summary>
+</member><member name="M:MyFire.commandmanger.TryCommand(System.String)">
+	<summary>
+ Tries the requested command.
+ </summary>
+	<param name="CommandChunk">The command including parameters.</param>
+	<remarks></remarks>
+</member><member name="M:MyFire.MainWindow.SwitchAccounts(MyFire_storage.StoredUser)">
+	<summary>
+ Changes the UI to match the new User
+ </summary>
+</member><member name="M:MyFire.errorlogging.WriteException(System.Exception)">
+	<summary>
+ Adds a new entry to the error log.
+ </summary>
+	<param name="ex">The exception</param>
+	<remarks></remarks>
+</member><member name="M:MyFire.errorlogging.WriteSpeical(System.String,System.Exception)">
+	<summary>
+ Adds a special message to the error log.
+ </summary>
+	<param name="Message">The message</param>
+	<remarks></remarks>
+</member><member name="M:MyFire.tokens.Tokens">
+	<summary>
+ Gets the tokens for the default user.
+ </summary>
+	<returns><see>OAuthTokens</see></returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.tokens.TokensFromUser(System.String)">
+	<summary>
+ Gets the token set for the specific user.
+ </summary>
+	<param name="ScreenName">The user.</param>
+	<returns><see>OAuthTokens</see></returns>
+	<remarks></remarks>
+</member><member name="M:MyFire.tokens.BingAppId">
+	<summary>
+ Gets myFire's Bing App ID.
+ </summary>
+</member><member name="M:MyFire.tokens.GetDefaultUser">
+	<summary>
+ Gets the default user from the XML store.
+ </summary>
+</member><member name="M:MyFire.tokens.GetDefaultScreenName">
+	<summary>
+ Gets the screen name of the default user.
+ </summary>
+</member>
+</members>
+</doc>

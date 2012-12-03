@@ -1,0 +1,312 @@
+﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="Application" StartupUri="MainWindow.xaml" ShutdownMode="OnMainWindowClose">
+	<Application.Resources>
+
+        <!-- List Box Styles and Templates -->
+        <ResourceDictionary>
+        	<ResourceDictionary.MergedDictionaries>
+        		<ResourceDictionary Source="Styles_Button.xaml"/>
+        		<ResourceDictionary Source="Styles_CheckBox.xaml"/>
+        		<ResourceDictionary Source="Styles_TabItem.xaml"/>
+        	</ResourceDictionary.MergedDictionaries>
+			<!-- Tweet List -->
+			<DataTemplate x:Key="TweetListTemplete">
+				<Grid HorizontalAlignment="Stretch" MouseEnter="Grid_MouseEnter" MouseLeave="Grid_MouseLeave">
+					<!--
+                
+                ///////////////////////////////////////////////////////////////////////////////////
+                ///// DO NOT CHANGE THE ORDER OF THESE OBJECTS.  STACK PANEL MUST BE OBJECT 2 /////
+                ///////////////////////////////////////////////////////////////////////////////////
+                
+                -->
+					<Grid.ColumnDefinitions>
+						<ColumnDefinition Width="60"/>
+						<ColumnDefinition Width="*"/>
+					</Grid.ColumnDefinitions>
+					<Border BorderThickness="1" CornerRadius="5" HorizontalAlignment="Left" Margin="5" Width="50" Height="50" VerticalAlignment="Top" MouseDown="Image1_MouseDown" MouseEnter="Image1_MouseEnter">
+						<Border.Background>
+							<ImageBrush x:Name="TweetImage" Stretch="UniformToFill" ImageSource="{Binding TweetImage}" />
+						</Border.Background>
+						<Border.ToolTip>
+							<ToolTip>
+								<StackPanel>
+									<TextBlock/>
+									<Separator/>
+									<TextBlock FontWeight="Bold"/>
+								</StackPanel>
+							</ToolTip>
+						</Border.ToolTip>
+						<Border.ContextMenu>
+							<ContextMenu x:Name="tweetcm">
+                                <MenuItem Header="Tweet">
+                                    <MenuItem Header="Start Conversation" Click="cm_tweet_conversation" />
+                                    <MenuItem Header="Favourite Tweet" Click="cm_tweet_favourite" />
+									<MenuItem Header="Retweet Tweet">
+										<MenuItem Header="Twitter Style" Click="cm_tweet_retweet" />
+										<MenuItem Header="Quote" Click="cm_tweet_retweet_quote" />
+									</MenuItem>
+									<MenuItem Header="Reply To" Click="cm_tweet_reply"/>
+									<MenuItem Header="Translate" Click="cm_tweet_translate" />
+									<MenuItem Header="Report tweet as advertisement" Click="cm_tweet_advertisement"/>
+								</MenuItem>
+								<MenuItem Header="User">
+									<MenuItem Header="Follow / Unfollow">
+										<MenuItem Header="Follow" Click="cm_user_follow"/>
+										<MenuItem Header="Unfollow" Click="cm_user_unfollow"/>
+									</MenuItem>
+									<MenuItem Header="View Profile" Click="cm_user_view"/>
+									<MenuItem Header="Search" Click="cm_user_search"/>
+									<MenuItem Header="Block" Click="cm_user_block"/>
+									<MenuItem Header="Block &amp; Report For Spam" Click="cm_user_block_report"/>
+								</MenuItem>
+							</ContextMenu>
+						</Border.ContextMenu>
+					</Border>
+					<StackPanel Margin="0,5" Grid.Column="1" MouseEnter="Grid1_MouseEnter" MouseLeftButtonDown="li_leftclick" MouseRightButtonDown="li_rightclick">
+						<StackPanel.ToolTip>
+							<ToolTip>
+								<StackPanel>
+									<TextBlock/>
+									<Separator/>
+									<TextBlock FontWeight="Bold"/>
+								</StackPanel>
+							</ToolTip>
+						</StackPanel.ToolTip>
+						<TextBlock x:Name="UsernameLabel" Text="{Binding TweetUsername}" Height="Auto"  VerticalAlignment="Top" FontWeight="Bold" Width="Auto"/>
+						<TextBlock x:Name="TweetText" Height="Auto" Text="{Binding TweetText}" TextWrapping="Wrap"/>
+						<TextBlock x:Name="TweetAge" TextWrapping="Wrap" Height="Auto" Text="{Binding TweetAge}" Opacity="0.5" TextAlignment="Right" Margin="5,0"/>
+						<TextBlock Text="{Binding TweetID}" Height="Auto" Visibility="Collapsed"/>
+					</StackPanel>
+					<Button x:Name="Report_Button" Grid.Column="1" Margin="5" Height="Auto" HorizontalAlignment="Right" VerticalAlignment="Center" Content="Spam" Visibility="Collapsed" Click="Report_User" />
+				</Grid>
+			</DataTemplate>
+
+			<!-- DirectMessage List -->
+			<DataTemplate x:Key="MessageListTemplete">
+				<Grid HorizontalAlignment="Stretch" MinHeight="50" Loaded="Grid_Loaded_1" MouseEnter="Grid_MouseEnter_1">
+					<!--
+                
+                ///////////////////////////////////////////////////////////////////////////////////
+                ///// DO NOT CHANGE THE ORDER OF THESE OBJECTS.  STACK PANEL MUST BE OBJECT 2 /////
+                ///////////////////////////////////////////////////////////////////////////////////
+                
+                -->
+					<Grid.ColumnDefinitions>
+						<ColumnDefinition Width="60"/>
+						<ColumnDefinition Width="*"/>
+					</Grid.ColumnDefinitions>
+					<Grid.ContextMenu>
+						<ContextMenu>
+							<MenuItem Header="Reply to message" Click="cm_message_reply"/>
+							<MenuItem Header="Foward message" Click="cm_message_foward"/>
+							<MenuItem Header="Translate message" Click="cm_message_translate"/>
+							<Separator />
+							<MenuItem Header="Report user" Click="cm_message_report"/>
+							<MenuItem Header="Delete message" Click="cm_message_delete"/>
+						</ContextMenu>
+					</Grid.ContextMenu>
+					<Border MouseDown="MessageImage_MouseDown" MouseEnter="MessageImage_MouseEnter" CornerRadius="5" HorizontalAlignment="Left" Margin="5" Width="50" Height="50" VerticalAlignment="Top">
+						<Border.Background>
+							<ImageBrush x:Name="TweetImage" Stretch="UniformToFill" ImageSource="{Binding MessageImage}" />
+						</Border.Background>
+						<Border.ToolTip>
+							<ToolTip>
+								<StackPanel>
+									<TextBlock/>
+									<Separator/>
+									<TextBlock FontWeight="Bold"/>
+								</StackPanel>
+							</ToolTip>
+						</Border.ToolTip>
+					</Border>
+					<StackPanel Grid.Column="1" MouseEnter="MessageStackpanel_MouseEnter" MouseLeftButtonDown="MessageStackpanel_leftclick" MouseRightButtonDown="MessageStackpanel_rightclick">
+						<StackPanel.ToolTip>
+							<ToolTip>
+								<StackPanel>
+									<TextBlock/>
+									<Separator/>
+									<TextBlock FontWeight="Bold"/>
+								</StackPanel>
+							</ToolTip>
+						</StackPanel.ToolTip>
+						<TextBlock Text="{Binding MessageUsername}" Height="Auto"  VerticalAlignment="Top" FontWeight="Bold" Width="Auto" Margin="0" />
+						<TextBlock Text="{Binding MessageText}" TextWrapping="Wrap" Height="Auto"  />
+						<TextBlock Text="{Binding MessageDate}" TextWrapping="Wrap" Height="Auto" Opacity="0.5" TextAlignment="Right" d:LayoutOverrides="HorizontalAlignment" Padding="0,0,2,0" />
+					</StackPanel>
+				</Grid>
+			</DataTemplate>
+
+			<!-- User List-->
+			<DataTemplate x:Key="UserListTemplete">
+				<Grid HorizontalAlignment="Stretch" MouseDown="Grid2_MouseDown" MouseEnter="Grid2_MouseEnter" MouseLeave="Grid2_MouseLeave">
+					<!--
+                
+                ///////////////////////////////////////////////////////////////////////////////////
+                ///// DO NOT CHANGE THE ORDER OF THESE OBJECTS.  STACK PANEL MUST BE OBJECT 2 /////
+                ///////////////////////////////////////////////////////////////////////////////////
+                
+                -->
+					<Grid.ColumnDefinitions>
+						<ColumnDefinition Width="60"/>
+						<ColumnDefinition Width="*"/>
+					</Grid.ColumnDefinitions>
+					<Grid.ToolTip>
+						<ToolTip>
+							<StackPanel>
+								<TextBlock/>
+								<Separator/>
+								<TextBlock FontWeight="Bold"/>
+							</StackPanel>
+						</ToolTip>
+					</Grid.ToolTip>
+					<Border CornerRadius="5" HorizontalAlignment="Left" Margin="5" Width="50" Height="50" VerticalAlignment="Top">
+						<Border.Background>
+							<ImageBrush x:Name="TweetImage" Stretch="UniformToFill" ImageSource="{Binding UserImage}" />
+						</Border.Background>
+					</Border>
+					<StackPanel Grid.Column="1" Margin="5">
+						<TextBlock FontWeight="Bold" x:Name="UsernameLabel" Text="{Binding UserScreenName}" />
+						<TextBlock x:Name="BioLabel" Text="{Binding UserBio}" Height="Auto" TextWrapping="Wrap" />
+					</StackPanel>
+					<Button Grid.Column="1" Margin="5" Height="Auto" HorizontalAlignment="Right" VerticalAlignment="Center" Content="Follow" Visibility="Collapsed" Click="fOLLOW_Click" />
+				</Grid>
+			</DataTemplate>
+		
+			<!-- Search List -->
+			<DataTemplate x:Key="TweetSearchTemplete">
+				<Grid HorizontalAlignment="Stretch" Background="{x:Null}" MinHeight="50">
+					<!--
+                
+                ///////////////////////////////////////////////////////////////////////////////////
+                ///// DO NOT CHANGE THE ORDER OF THESE OBJECTS.  STACK PANEL MUST BE OBJECT 2 /////
+                ///////////////////////////////////////////////////////////////////////////////////
+                
+                -->
+					<Grid.ColumnDefinitions>
+						<ColumnDefinition Width="60"/>
+						<ColumnDefinition Width="*"/>
+					</Grid.ColumnDefinitions>
+
+					<Border MouseDown="SearchImage_MouseDown" CornerRadius="5" HorizontalAlignment="Left" Margin="5" Width="50" Height="50" VerticalAlignment="Top">
+						<Border.Background>
+							<ImageBrush x:Name="TweetImage" Stretch="UniformToFill" ImageSource="{Binding SearchImageSource}" />
+						</Border.Background>
+						<Border.ToolTip>
+							<ToolTip>
+								<TextBlock FontWeight="Bold"><Run Text="Double click to view more about this user."/></TextBlock>
+							</ToolTip>
+						</Border.ToolTip>
+					</Border>
+                
+					<StackPanel Grid.Column="1" MouseEnter="SearchSP_MouseEnter" MouseLeftButtonDown="SearchSP_LeftClick" MouseRightButtonDown="SearchSP_RightClick">
+						<StackPanel.ToolTip>
+							<ToolTip>
+								<StackPanel>
+									<TextBlock/>
+									<Separator/>
+									<TextBlock FontWeight="Bold"/>
+								</StackPanel>
+							</ToolTip>
+						</StackPanel.ToolTip>
+						<TextBlock x:Name="UsernameLabel" Text="{Binding SearchUsername}" Height="Auto"  VerticalAlignment="Top" FontWeight="Bold" Width="Auto" Margin="0" />
+						<TextBlock x:Name="TweetBlock" Text="{Binding SearchText}" TextWrapping="Wrap" Height="Auto"  />
+						<TextBlock x:Name="TweetAge" TextWrapping="Wrap" Height="Auto" Text="{Binding SearchDate}" Opacity="0.5" TextAlignment="Right" d:LayoutOverrides="HorizontalAlignment" Padding="0,0,2,0" />
+					</StackPanel>
+				</Grid>
+			</DataTemplate>
+		
+			<!-- User Category List -->
+			<DataTemplate x:Key="UserCategoryList">
+				<Grid x:Name="UserCategoryGird" MouseDown="UserCategoryGird_MouseDown">
+					<StackPanel>
+						<TextBlock FontWeight="Bold"  Text="{Binding CategoryTitle}"/>
+						<TextBlock Text="{Binding CategorySize}"/>
+					</StackPanel>
+				</Grid>
+			</DataTemplate>
+		
+			<!-- TwitterList List -->
+			<DataTemplate x:Key="TwitterListTemplete">
+				<Grid HorizontalAlignment="Stretch" MouseDown="Grid3_MouseDown" MouseEnter="Grid3_MouseEnter">
+					<!--
+                
+                ///////////////////////////////////////////////////////////////////////////////////
+                ///// DO NOT CHANGE THE ORDER OF THESE OBJECTS.  STACK PANEL MUST BE OBJECT 2 /////
+                ///////////////////////////////////////////////////////////////////////////////////
+                
+                -->
+					<Grid.ToolTip>
+						<ToolTip>
+							<StackPanel>
+								<TextBlock/>
+								<Separator/>
+								<TextBlock FontWeight="Bold" Text="Right click for options, Double Click to view the tweets within the list."/>
+							</StackPanel>
+						</ToolTip>
+					</Grid.ToolTip>
+					<Grid.ContextMenu>
+						<ContextMenu>
+							<MenuItem Header="Edit List" Click="Grid3_cm_1"/>
+							<MenuItem Header="Edit List Members" Click="Grid3_cm_2"/>
+							<Separator />
+							<MenuItem Header="Delete List" Click="Grid3_cm_3"/>
+						</ContextMenu>
+					</Grid.ContextMenu>
+					<Grid.ColumnDefinitions>
+						<ColumnDefinition Width="60"/>
+						<ColumnDefinition Width="*"/>
+					</Grid.ColumnDefinitions>
+
+					<Border MouseDown="SearchImage_MouseDown" CornerRadius="5" HorizontalAlignment="Left" Margin="5" Width="50" Height="50" VerticalAlignment="Top">
+						<Border.Background>
+							<ImageBrush x:Name="TweetImage" Stretch="UniformToFill" ImageSource="{Binding TwitterListImage}" />
+						</Border.Background>
+					</Border>
+                
+					<StackPanel Grid.Column="1" Margin="5">
+						<TextBlock FontWeight="Bold" Text="{Binding TwitterListTitle}" />
+						<TextBlock Text="{Binding TwitterListDescription}" Height="Auto" TextWrapping="Wrap" />
+					</StackPanel>
+				</Grid>
+			</DataTemplate>
+            
+            <!-- StoredUser List -->
+            <DataTemplate x:Key="StoredUserTemplete">
+                <Grid HorizontalAlignment="Stretch">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="60"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Border CornerRadius="5" HorizontalAlignment="Left" Margin="5" Width="50" Height="50" VerticalAlignment="Top">
+                        <Border.Background>
+                            <ImageBrush x:Name="StoreImage" Stretch="UniformToFill" ImageSource="{Binding StoredUserImage}" />
+                        </Border.Background>
+                    </Border>
+
+                    <StackPanel Grid.Column="1" Margin="5">
+                        <TextBlock FontWeight="Bold" Text="{Binding StoredUserTitle}" />
+                        <TextBlock Text="{Binding StoredUserDescription}" Height="Auto" TextWrapping="Wrap" />
+                    </StackPanel>
+                </Grid>
+            </DataTemplate>
+
+            <!-- myFire ListBox Style -->
+			<Style x:Key="myFireListBoxStyle">
+				<Style.Resources>
+					<!-- Background of selected item when focused -->
+					<LinearGradientBrush x:Key="{x:Static SystemColors.HighlightBrushKey}" EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+						<GradientStop Color="#FF606060" Offset="0"/>
+						<GradientStop Color="#FF2F2F2F" Offset="1"/>
+					</LinearGradientBrush>
+					<!-- Background of selected item when not focused -->
+					<LinearGradientBrush x:Key="{x:Static SystemColors.ControlBrushKey}" EndPoint="0.5,1"  MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+						<GradientStop Color="#FFEBEBEB" Offset="0"/>
+						<GradientStop Color="#FF969696" Offset="1"/>
+					</LinearGradientBrush>
+				</Style.Resources>
+			</Style>
+
+        </ResourceDictionary>
+
+    </Application.Resources>
+</Application>

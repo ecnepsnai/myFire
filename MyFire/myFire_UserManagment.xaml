@@ -1,0 +1,10 @@
+﻿<Window x:Class="myFire_UserManagment"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="myFire | User Managment" Height="300" Width="434" Icon="/MyFire;component/Resources/Retro-Fire-Ball.ico">
+    <Grid>
+        <ListBox Margin="12,37,12,12" Name="UserList" ItemTemplate="{DynamicResource StoredUserTemplete}"/>
+        <Button Content="Add New User" Height="23" HorizontalAlignment="Right" Margin="0,8,12,0" Name="btn_AddUser" VerticalAlignment="Top" Width="103" />
+        <Button Content="Remove User" Height="23" HorizontalAlignment="Right" Margin="0,8,121,0" Name="btn_RemoveUser" VerticalAlignment="Top" Width="103" IsEnabled="False" />
+    </Grid>
+</Window>

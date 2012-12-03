@@ -1,0 +1,26 @@
+﻿<Window x:Class="FatalError"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="myFire | Error!" Name="FatalError" WindowStyle="ThreeDBorderWindow" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" SizeToContent="Height" MinWidth="350" MaxWidth="350" mc:Ignorable="d" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" Icon="/MyFire;component/Images/Annotations/109_AllAnnotations_Warning_16x16_72.png" Width="349">
+        <StackPanel HorizontalAlignment="Stretch">
+            <StackPanel Orientation="Horizontal" Margin="5">
+                <Image Height="32" Width="32" Margin="5" Source="/MyFire;component/Images/info-warning.png" />
+                <StackPanel MaxWidth="275">
+                    <TextBlock Name="TextBlock1" Text="Uh oh!  That should not have happened." VerticalAlignment="Top" FontStyle="Italic" Foreground="Crimson" FontSize="15" />
+                    <TextBlock Name="l_errormessage" Text="null" TextWrapping="Wrap" />
+                </StackPanel>
+            </StackPanel>
+            <Expander Header="Stack trace" Margin="5">
+                <Grid>
+                    <TextBox Name="StackTraceBox" TextWrapping="Wrap" BorderThickness="0" Margin="2" IsReadOnly="True" SelectionBrush="Crimson" />
+                </Grid>
+            </Expander>
+            <Rectangle Height="1" HorizontalAlignment="Stretch" Fill="Gray" />
+            <Grid Background="#FFEFEFEF">
+                <StackPanel HorizontalAlignment="Right" Orientation="Horizontal">
+                    <Button Content="Send error report" Height="23" HorizontalAlignment="Right" Name="Button1" Width="120" Margin="5,5,2.5,5" />
+                    <Button Content="OK" Height="23" Name="OK" Width="75" Margin="2.5,5,5,5" />
+                </StackPanel>
+            </Grid>
+        </StackPanel>
+</Window>

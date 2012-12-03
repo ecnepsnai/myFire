@@ -1,0 +1,19 @@
+﻿<Window x:Class="myFire_pictureviewer"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Picture" Icon="/MyFire;component/Resources/Retro-Fire-Ball.ico" SizeToContent="WidthAndHeight" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="ThreeDBorderWindow" MaxHeight="800" MaxWidth="600">
+    <Grid>
+        <Image Name="PictureImage">
+            <Image.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Copy link" Click="cm1"/>
+                    <MenuItem Header="View on Website" Click="cm2"/>
+                    <MenuItem Header="Tweet link to image" Click="cm3"/>
+                    <Separator />
+                    <MenuItem Header="Save imgage" Click="cm4"/>
+                    <MenuItem Name="LinkMenu" IsEnabled="False" />
+                </ContextMenu>
+            </Image.ContextMenu>
+        </Image>
+    </Grid>
+</Window>

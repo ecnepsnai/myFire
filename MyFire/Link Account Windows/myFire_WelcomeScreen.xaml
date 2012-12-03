@@ -1,0 +1,27 @@
+﻿<Window x:Class="myFire_WelcomeScreen"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="myFire" Name="myFire_WelcomeScreen" Icon="/MyFire;component/Resources/Retro-Fire-Ball.ico" mc:Ignorable="d" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" Height="489" Width="672" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+        <Grid>
+        <Grid.Background>
+            <ImageBrush x:Name="WelcomeImage" Stretch="UniformToFill" />
+        </Grid.Background>
+        <Rectangle Height="215" VerticalAlignment="Top">
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#BF000000" Offset="0" />
+                    <GradientStop Color="#00000000" Offset="1" />
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+            <Button Style="{DynamicResource Button_Green}" Content="Login To Twitter" Height="30"  Name="Button1" VerticalAlignment="Top" Width="138" HorizontalAlignment="Left" Margin="12,119,0,0" />
+            <StackPanel Name="PormotionOptions" Margin="12,155,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Visibility="Collapsed" >
+        	    <CheckBox Content="Post tweet about myFire!" Foreground="White" IsChecked="True" Name="PostTweet"/>
+        	    <CheckBox Content="Follow @MyFireApp on Twitter!" Foreground="White" IsChecked="True" Name="FollowMyFire"/>
+            </StackPanel>
+        <TextBlock HorizontalAlignment="Left" Name="TitleBlock" Text="Hello, and welcome to myFire." VerticalAlignment="Top" Margin="15" FontFamily="Arial" FontWeight="Bold" FontSize="40" TextOptions.TextFormattingMode="Ideal" Foreground="White" />
+        <TextBlock FontFamily="Arial" FontSize="20" HorizontalAlignment="Left" Margin="15,67,0,0" Name="HeaderBlock" Text="You're only a few steps away from the most powerful Twitter client ever." TextOptions.TextFormattingMode="Ideal" VerticalAlignment="Top" TextWrapping="Wrap" Width="343" Foreground="White" />
+        <TextBlock HorizontalAlignment="Right" Margin="0,0,12,12" Name="CopyrightBlock" Text="©" VerticalAlignment="Bottom" FontFamily="Arial" Foreground="White" />
+    </Grid>
+    
+</Window>

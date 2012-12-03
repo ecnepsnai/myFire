@@ -1,0 +1,65 @@
+﻿<Window x:Class="TweetDialog"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	Title="Create New Post" WindowStyle="SingleBorderWindow" Name="TweetDialog" WindowStartupLocation="CenterScreen" Icon="/MyFire;component/Resources/Retro-Fire-Ball.ico" mc:Ignorable="d" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" Height="250" Width="500" Topmost="False" MinWidth="500" MinHeight="250" AllowDrop="True" MaxWidth="635">	
+	<Grid Name="Grid1">
+		<StackPanel >
+			<!-- Comp grid -->
+			<Grid Height="44" VerticalAlignment="Top">
+			<Grid.Background>
+				<ImageBrush ImageSource="/MyFire;component/Images/composetweet-header.png" TileMode="FlipXY" Stretch="None" />
+			</Grid.Background>
+			<StackPanel Orientation="Horizontal" Margin="5,7">
+				<Image Source="/MyFire;component/Images/composetweet/comp_cod.png" Cursor="Hand" Name="comp_cog" ToolTip="Tweet from multiple accounts.">
+					<Image.ContextMenu>
+						<ContextMenu Name="UsersContextMenu" />
+					</Image.ContextMenu>
+				</Image>
+				<Rectangle Width="1" HorizontalAlignment="Stretch" Fill="#FF4B4B4B" Margin="5,0" />
+				<Image Source="/MyFire;component/Images/composetweet/comp_picture.png" Cursor="Hand" Name="comp_image" ToolTip="Add a picture to the tweet."/>
+				<Image Source="/MyFire;component/Images/composetweet/comp_mention.png" Margin="5,0" Cursor="Hand" Name="comp_mention" ToolTip="Mention a person."/>
+				<Image Source="/MyFire;component/Images/composetweet/comp_trend.png" Cursor="Hand" Name="comp_trend" ToolTip="Get the latest trending topics."/>
+				<Image Source="/MyFire;component/Images/composetweet/comp_dm.png" Margin="5,0" Cursor="Hand" Name="comp_message" ToolTip="Send a direct message."/>
+			</StackPanel>
+			<StackPanel HorizontalAlignment="Right" Margin="5,7" Orientation="Horizontal">
+				<TextBlock Name="CharLBL" VerticalAlignment="Center" Text="0/140" Margin="0,0,5,0" Foreground="White" FontSize="13"><TextBlock.Effect><DropShadowEffect Color="Black" Direction="0" ShadowDepth="0" x:Name="CharLBL_Effect" /></TextBlock.Effect></TextBlock>
+			</StackPanel>
+		</Grid>
+			<Rectangle Height="1" HorizontalAlignment="Stretch" Fill="Black" />
+		</StackPanel>
+		
+		<Grid Name="DragGrid" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="0,45,0,0" Background="White" />
+			<TextBox VerticalAlignment="Stretch" FontFamily="Georgia" FontSize="14" Name="TweetBox" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" SpellCheck.IsEnabled="True" BorderBrush="Black" BorderThickness="0" Margin="5,50,5,5" />
+		
+			<!--Attachment Panel-->
+			<Grid Height="38" Name="AttachedPanel" VerticalAlignment="Bottom" Visibility="Collapsed">
+			<Rectangle Height="26" HorizontalAlignment="Left" Margin="6,6,0,0" Name="Rectangle1" Stroke="Black" VerticalAlignment="Top" Width="163" Fill="#FF555555" />
+			<TextBlock Height="17" HorizontalAlignment="Left" Margin="12,10,0,11" Name="AttachmentLabel" Text="" VerticalAlignment="Center" Width="157" Foreground="White" TextTrimming="CharacterEllipsis" />
+			<Button Content="Clear Attachment" Height="26" HorizontalAlignment="Right" Margin="0,6,6,0" Name="Button2" VerticalAlignment="Top" Width="109" />
+		</Grid>
+			
+			<!--Message Panel-->
+			<Grid Height="38" Name="MessagePanel" VerticalAlignment="Bottom" Visibility="Collapsed">
+			<Border Height="26" HorizontalAlignment="Left" Margin="6,6,0,0" Name="Rectangle2" BorderBrush="Black" VerticalAlignment="Top" Width="163">
+				<Grid Background="#FF555555">
+					<TextBlock Foreground="White" Height="17" HorizontalAlignment="Left" Name="UserLBL" Text="" TextTrimming="CharacterEllipsis" VerticalAlignment="Center" Margin="5"/>
+				</Grid>
+			</Border>
+			<Button Content="Cancel Message" Height="26" HorizontalAlignment="Right" Margin="0,6,6,0" Name="Button3" VerticalAlignment="Top" Width="109" />
+			</Grid>
+		
+			<!-- Drop grid -->
+			<Grid Name="DropGrid" Margin="0,43,0,0" Visibility="Hidden">
+			<Border BorderThickness="1" BorderBrush="Black">
+				<TextBlock Text="Drop images here to attach them..." HorizontalAlignment="Center" VerticalAlignment="Center" />
+			</Border>
+			<Grid.Background>
+				<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+					<GradientStop Color="#FFE5E5FF" Offset="1" />
+					<GradientStop Color="White" Offset="0" />
+				</LinearGradientBrush>
+			</Grid.Background>
+		</Grid>
+		
+	</Grid>
+</Window>

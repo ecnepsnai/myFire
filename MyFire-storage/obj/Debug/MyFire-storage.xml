@@ -1,0 +1,65 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MyFire-storage
+</name>
+</assembly>
+<members>
+<member name="M:MyFire_storage.Data.Reset(System.Collections.Specialized.StringCollection)">
+	<summary>
+ Resets the settings to their default values.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:MyFire_storage.Data.Users_ReturnUserList">
+	<summary>
+ Returns a list of currently authorized users.
+ </summary>
+	<returns>A list of <see>StoredUser</see> objects.</returns>
+	<remarks></remarks>
+</member><member name="M:MyFire_storage.Data.Users_WriteSingleUser(MyFire_storage.StoredUser)">
+	<summary>
+ Writes a user to the XMLUserList.
+ </summary>
+	<param name="User">The <see>StoredUser</see> object.</param>
+	<remarks></remarks>
+</member><member name="M:MyFire_storage.Data.Users_DeleteSingleUser(MyFire_storage.StoredUser)">
+	<summary>
+ Deleted the user from the user store.
+ </summary>
+	<param name="DeleteUser">The <see>StoredUser</see> object.</param>
+	<remarks></remarks>
+</member><member name="M:MyFire_storage.Data.Users_ListOfScreenNames">
+	<summary>
+ Returns a list of Screen Names for use around the application.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:MyFire_storage.Data.SetDefaultUser(System.String)">
+	<summary>
+ Sets the default user from the list of users.
+ </summary>
+	<param name="screenname">The screen name of the user to be made default.</param>
+	<remarks>Will throw a <see>KeyNotFoundException</see> if no user was found.</remarks>
+</member><member name="M:MyFire_storage.Data.GetDefaultUser">
+	<summary>
+ Gets the default user from the list of users.
+ </summary>
+	<returns>A SturedUser object for the default user.</returns>
+	<remarks>Will throw a KeyNotFoundException if no default user was found.</remarks>
+</member><member name="P:MyFire_storage.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:MyFire_storage.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:MyFire_storage.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

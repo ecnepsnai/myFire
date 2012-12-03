@@ -1,0 +1,9 @@
+﻿<Window x:Class="myFire_suggestedusers"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="myFire_suggestedusers" Height="300" Width="527" Icon="/MyFire;component/Resources/Retro-Fire-Ball.ico" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <ListBox Margin="12,34,12,12" Name="CatList" ScrollViewer.CanContentScroll="False" Style="{DynamicResource myFireListBoxStyle}" ItemTemplate="{DynamicResource UserCategoryList}"/>
+        <TextBlock Height="23" Margin="12,12,12,0" Name="TextBlock1" Text="Find people to follow by selecting a category..." VerticalAlignment="Top" />
+    </Grid>
+</Window>

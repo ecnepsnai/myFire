@@ -1,0 +1,15 @@
+﻿<Window x:Class="myFire_supportmyfire"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="myFire | Support myFire." Height="280" Width="284" Icon="/MyFire;component/Resources/Retro-Fire-Ball.ico" WindowStyle="ThreeDBorderWindow" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="12,12,0,0" Name="TextBlock1" Text="No, we're not selling vaccumes." VerticalAlignment="Top" FontFamily="Arial" FontSize="16" FontWeight="Bold" />
+        <TextBlock FontFamily="Arial" HorizontalAlignment="Left" Margin="12,36,0,0" Name="TextBlock2" Text="We're trying to help you better use the rapidly chaning social web.  And we need your help.  There are many ways you can contribute to myFire.  Here are some of the options:" VerticalAlignment="Top" TextWrapping="Wrap" Width="241" />
+        <Button Content="Donate to myFire" HorizontalAlignment="Left" Name="Button1" VerticalAlignment="Top"  Style="{DynamicResource Button_Green}" Height="23" Width="238" Margin="12,97,0,0" />
+        <Button Content="Tell your friends" Height="23" HorizontalAlignment="Left" Margin="12,126,0,0" Name="Button2" Style="{DynamicResource Button_Default}" VerticalAlignment="Top" Width="238" />
+        <Button Content="Submit Feedback" Height="23" HorizontalAlignment="Left" Margin="12,155,0,0" Name="Button3" Style="{DynamicResource Button_Default}" VerticalAlignment="Top" Width="238" />
+        <Button Content="Follow us on Twitter" Height="23" HorizontalAlignment="Left" Margin="12,184,0,0" Name="Button4" Style="{DynamicResource Button_Default}" VerticalAlignment="Top" Width="116" />
+        <Button Content="Like us on Facebook" Height="23" HorizontalAlignment="Left" Margin="134,184,0,0" Name="Button5" Style="{DynamicResource Button_Default}" VerticalAlignment="Top" Width="116" />
+        <TextBlock FontFamily="Arial" HorizontalAlignment="Left" Margin="12,0,0,12" Name="TextBlock3" Text="This message will not appear again." TextWrapping="Wrap" VerticalAlignment="Bottom" Width="241" />
+    </Grid>
+</Window>

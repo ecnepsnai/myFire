@@ -1,0 +1,60 @@
+﻿<Window x:Class="TweetDisplayDialog"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="myFire | Viewing a tweet." WindowStartupLocation="CenterScreen" Opacity="1" WindowStyle="SingleBorderWindow" Icon="/MyFire;component/Resources/Retro-Fire-Ball.ico" mc:Ignorable="d" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" SizeToContent="WidthAndHeight" ResizeMode="NoResize" Padding="0,0,0,10" MaxWidth="400" MinWidth="300" MinHeight="200" d:DesignHeight="200" d:DesignWidth="300">
+    <Grid>
+        <StackPanel>
+            <Grid Name="UserGrid" Cursor="Hand">
+                <Grid.Background>
+                    <ImageBrush x:Name="UserBackground" Stretch="UniformToFill" />
+                </Grid.Background>
+                <Border BorderThickness="1.5" HorizontalAlignment="Left" Margin="10" Width="50" Height="50">
+                    <Image x:Name="TweetUserImage">
+                        <Image.Effect>
+                            <DropShadowEffect Color="Black" Direction="0" ShadowDepth="0" />
+                        </Image.Effect>
+                    </Image>
+                </Border>
+                <TextBlock Text="null:screenname" FontSize="20" Name="user_name" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="67,0,0,0"><TextBlock.Effect><DropShadowEffect Color="Black" Direction="0" ShadowDepth="0" /></TextBlock.Effect></TextBlock>
+                <Image Height="13" Source="/MyFire;component/Images/view_arrow.png" Stretch="Fill" Width="9" VerticalAlignment="Stretch" HorizontalAlignment="Right" Margin="5"><Image.Effect><DropShadowEffect Color="Black" Direction="0" ShadowDepth="0" /></Image.Effect>
+                </Image>
+            </Grid>
+            <Grid Name="TweetGrid">
+                <StackPanel>
+                    <RichTextBox Name="TweetText" Margin="5" FontSize="14" BorderThickness="0" IsReadOnly="True" />                    
+                    <Border Name="MediaBorder" Height="50" Width="50" HorizontalAlignment="Left" Margin="5,0,0,0" BorderThickness="1" BorderBrush="Gray" Visibility="Collapsed"><Border.Effect><DropShadowEffect Color="Black" Direction="0" ShadowDepth="0" /></Border.Effect>
+                        <Image Name="MediaImage" Stretch="UniformToFill" />
+                    </Border>
+                    <Rectangle Height="1" Fill="Gray" Margin="0,5" />
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                        <TextBlock Name="TweetDate" Text="null:tweet.date" Margin="5,0,0,0" />
+                        <Rectangle Width="1" Fill="Gray" Margin="5,0" />
+                        <TextBlock Name="TweetID" Text="null:tweet.id" Margin="0,0,5,0" />
+                    </StackPanel>
+                    <Rectangle Height="1" Fill="Gray" Margin="0,5" />
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                        <Button Content="Menu" Margin="2.5" Name="MenuBtn">
+                            <Button.ContextMenu>
+                                <ContextMenu Name="MenuCM">
+                                    <MenuItem Header="Tweet">
+                                        <MenuItem Header="Favourite" Click="tweet_favourite"/>
+                                        <MenuItem Header="Retweet">
+                                            <MenuItem Header="Twitter style" Click="tweet_retweet"/>
+                                            <MenuItem Header="Quote tweet" Click="tweet_quote"/>
+                                        </MenuItem>
+                                        <MenuItem Header="Translate" Click="tweet_translate"/>
+                                    </MenuItem>
+                                    <MenuItem Header="User">
+                                        <MenuItem Header="Report" Click="user_report"/>
+                                    </MenuItem>
+                                </ContextMenu>
+                            </Button.ContextMenu>
+                        </Button>
+                        <Button Content="In Reply To..." Margin="2.5" Name="InReplyToBtn" />
+                        <Button Content="Tweet Location" Margin="2.5" Name="LocationBtn" />
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+        </StackPanel>
+    </Grid>
+</Window>

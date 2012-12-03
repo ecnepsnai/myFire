@@ -1,0 +1,569 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\aboutii.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\linkaccount.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\MainWindow.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\StatsWindow.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\TumblrLogin.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\TweetDialog.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\UserProfile.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\aboutii.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\linkaccount.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\MainWindow.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\StatsWindow.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\TumblrLogin.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\TweetDialog.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\UserProfile.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\Application.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\MyFire_MarkupCompile.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\TrendSearch.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\UserSearch.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\TrendSearch.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\UserSearch.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\MyFire.g.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\MyFire.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\bin\Debug\MyFire.exe.config
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\bin\Debug\MyFire.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\bin\Debug\MyFire.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\bin\Debug\MyFire.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\bin\Debug\ifxtweet2-data.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\bin\Debug\ifxtweet2-tumblr.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\bin\Debug\TaskDialog.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\bin\Debug\WPFToolkit.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\bin\Debug\ifxtweet2-data.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\bin\Debug\ifxtweet2-data.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\bin\Debug\ifxtweet2-tumblr.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\bin\Debug\TaskDialog.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\bin\Debug\TaskDialog.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\bin\Debug\WPFToolkit.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\Interop.iTunesLib.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\MyFire.vbproj.ResolveComReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\MyFire.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\MyFire.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\ifxtweet2\MyFire\obj\x86\Debug\MyFire.pdb
+C:\Users\User\Dropbox\MyFire\MyFire\bin\Debug\MyFire.exe.config
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\Interop.iTunesLib.dll
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\MyFire.vbproj.ResolveComReference.cache
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\MyFire.exe
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\MyFire.xml
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\MyFire.pdb
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\EditProfile.baml
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\FBLink.baml
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\Feedback.baml
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\ImageViewer.baml
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\Link Account Windows\MyFire_FacebookLink.baml
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\Link Account Windows\MyFire_TumblrLink.baml
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\Link Account Windows\MyFire_TwitterLink.baml
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\MainWindow.baml
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\NotificationWindow.baml
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\StatsWindow.baml
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\TrendSearch.baml
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\TweetDialog.baml
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\TweetDisplayDialog.baml
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\UserProfile.baml
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\UserSearch.baml
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\Application.baml
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\EditProfile.g.vb
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\FBLink.g.vb
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\Feedback.g.vb
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\ImageViewer.g.vb
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\Link Account Windows\MyFire_FacebookLink.g.vb
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\Link Account Windows\MyFire_TumblrLink.g.vb
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\Link Account Windows\MyFire_TwitterLink.g.vb
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\MainWindow.g.vb
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\NotificationWindow.g.vb
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\StatsWindow.g.vb
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\TrendSearch.g.vb
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\TweetDialog.g.vb
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\TweetDisplayDialog.g.vb
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\UserProfile.g.vb
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\UserSearch.g.vb
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\Application.g.vb
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\MyFire_MarkupCompile.cache
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\MyFire.g.resources
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\MyFire.Resources.resources
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Dropbox\MyFire\MyFire\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\MyFire.exe.config
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.exe
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.xml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.pdb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\EditProfile.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_AddTwitterAccount.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_manuallink.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\FatalError.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\MyFire_HowTo.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_WelcomeScreen.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\MainWindow.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\MessageWindow.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\Support_MoreInfo.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_About.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_direct_messages.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_EditList.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_EditListMembers.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_FilterTweets.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_Lists.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_pictureviewer.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_suggestedusers.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_TweetList.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_TweetSearchList.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_UserManagment.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_UserSearch_List.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\NotificationWindow.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\NotificationWindows\myFire_notificationwindow_general.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Settings.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\Support.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\TrendSearch.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\TweetDialog.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\TweetDisplayDialog.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\UserProfile.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\UserSearch.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Application.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\EditProfile.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_AddTwitterAccount.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_manuallink.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\FatalError.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\MyFire_HowTo.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_WelcomeScreen.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\MainWindow.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\MessageWindow.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\Support_MoreInfo.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_About.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_direct_messages.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_EditList.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_EditListMembers.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_FilterTweets.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_Lists.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_pictureviewer.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_suggestedusers.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_TweetList.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_TweetSearchList.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_UserManagment.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_UserSearch_List.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\NotificationWindow.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\NotificationWindows\myFire_notificationwindow_general.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Settings.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\Support.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\TrendSearch.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\TweetDialog.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\TweetDisplayDialog.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\UserProfile.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\UserSearch.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Application.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\MyFire_MarkupCompile.cache
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.g.resources
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.Resources.resources
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\MyFire.exe
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\MyFire.pdb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\MyFire.xml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\Twitterizer2.dll
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\Twitterizer2.Streaming.dll
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\Twitterizer2.pdb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\Twitterizer2.xml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\Twitterizer2.Streaming.pdb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\Twitterizer2.Streaming.xml
+Z:\MyFire\MyFire\bin\Debug\MyFire.exe.config
+Z:\MyFire\MyFire\obj\x86\Debug\MyFire.exe
+Z:\MyFire\MyFire\obj\x86\Debug\MyFire.xml
+Z:\MyFire\MyFire\obj\x86\Debug\MyFire.pdb
+Z:\MyFire\MyFire\bin\Debug\MyFire.exe
+Z:\MyFire\MyFire\bin\Debug\MyFire.pdb
+Z:\MyFire\MyFire\bin\Debug\MyFire.xml
+Z:\MyFire\MyFire\bin\Debug\DevExpress.Xpf.Map.v11.2.dll
+Z:\MyFire\MyFire\bin\Debug\MyFire-data.dll
+Z:\MyFire\MyFire\bin\Debug\Newtonsoft.Json.dll
+Z:\MyFire\MyFire\bin\Debug\MyFire-data.pdb
+Z:\MyFire\MyFire\bin\Debug\MyFire-data.xml
+Z:\MyFire\MyFire\bin\Debug\Twitterizer2.pdb
+Z:\MyFire\MyFire\bin\Debug\Twitterizer2.xml
+Z:\MyFire\MyFire\bin\Debug\Twitterizer2.Streaming.pdb
+Z:\MyFire\MyFire\bin\Debug\Twitterizer2.Streaming.xml
+Z:\MyFire\MyFire\bin\Debug\Newtonsoft.Json.pdb
+Z:\MyFire\MyFire\bin\Debug\Newtonsoft.Json.xml
+Z:\MyFire\MyFire\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\MyFire\MyFire\obj\x86\Debug\EditProfile.baml
+Z:\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_AddTwitterAccount.baml
+Z:\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_manuallink.baml
+Z:\MyFire\MyFire\obj\x86\Debug\Modules\myFire_ExpirementalFeatures.baml
+Z:\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\FatalError.baml
+Z:\MyFire\MyFire\obj\x86\Debug\Link Account Windows\MyFire_HowTo.baml
+Z:\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_WelcomeScreen.baml
+Z:\MyFire\MyFire\obj\x86\Debug\MainWindow.baml
+Z:\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\MessageWindow.baml
+Z:\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\Support_MoreInfo.baml
+Z:\MyFire\MyFire\obj\x86\Debug\myFire_About.baml
+Z:\MyFire\MyFire\obj\x86\Debug\myFire_direct_messages.baml
+Z:\MyFire\MyFire\obj\x86\Debug\myFire_EditList.baml
+Z:\MyFire\MyFire\obj\x86\Debug\myFire_EditListMembers.baml
+Z:\MyFire\MyFire\obj\x86\Debug\myFire_FilterTweets.baml
+Z:\MyFire\MyFire\obj\x86\Debug\myFire_Lists.baml
+Z:\MyFire\MyFire\obj\x86\Debug\myFire_MapDialog.baml
+Z:\MyFire\MyFire\obj\x86\Debug\myFire_pictureviewer.baml
+Z:\MyFire\MyFire\obj\x86\Debug\myFire_suggestedusers.baml
+Z:\MyFire\MyFire\obj\x86\Debug\myFire_TweetList.baml
+Z:\MyFire\MyFire\obj\x86\Debug\myFire_TweetSearchList.baml
+Z:\MyFire\MyFire\obj\x86\Debug\myFire_UserManagment.baml
+Z:\MyFire\MyFire\obj\x86\Debug\myFire_UserSearch_List.baml
+Z:\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\NotificationWindow.baml
+Z:\MyFire\MyFire\obj\x86\Debug\NotificationWindows\myFire_notificationwindow_general.baml
+Z:\MyFire\MyFire\obj\x86\Debug\Settings.baml
+Z:\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\Support.baml
+Z:\MyFire\MyFire\obj\x86\Debug\TrendSearch.baml
+Z:\MyFire\MyFire\obj\x86\Debug\TweetDialog.baml
+Z:\MyFire\MyFire\obj\x86\Debug\TweetDisplayDialog.baml
+Z:\MyFire\MyFire\obj\x86\Debug\UserProfile.baml
+Z:\MyFire\MyFire\obj\x86\Debug\UserSearch.baml
+Z:\MyFire\MyFire\obj\x86\Debug\Application.baml
+Z:\MyFire\MyFire\obj\x86\Debug\EditProfile.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_AddTwitterAccount.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_manuallink.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\Modules\myFire_ExpirementalFeatures.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\FatalError.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\Link Account Windows\MyFire_HowTo.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_WelcomeScreen.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\MainWindow.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\MessageWindow.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\Support_MoreInfo.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\myFire_About.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\myFire_direct_messages.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\myFire_EditList.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\myFire_EditListMembers.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\myFire_FilterTweets.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\myFire_Lists.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\myFire_MapDialog.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\myFire_pictureviewer.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\myFire_suggestedusers.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\myFire_TweetList.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\myFire_TweetSearchList.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\myFire_UserManagment.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\myFire_UserSearch_List.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\NotificationWindow.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\NotificationWindows\myFire_notificationwindow_general.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\Settings.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\Support.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\TrendSearch.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\TweetDialog.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\TweetDisplayDialog.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\UserProfile.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\UserSearch.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\Application.g.vb
+Z:\MyFire\MyFire\obj\x86\Debug\MyFire_MarkupCompile.cache
+Z:\MyFire\MyFire\obj\x86\Debug\MyFire.g.resources
+Z:\MyFire\MyFire\obj\x86\Debug\MyFire.Resources.resources
+Z:\MyFire\MyFire\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\MyFire\MyFire\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\MyFire.exe.config
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.exe
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.xml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.pdb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\MyFire.exe
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\MyFire.pdb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\MyFire.xml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\MyFire-data.dll
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\MyFire-data.pdb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\MyFire-data.xml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\DevExpress.Xpf.Map.v11.2.xml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\Twitterizer2.pdb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\Twitterizer2.xml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\Twitterizer2.Streaming.pdb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\Twitterizer2.Streaming.xml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.vbprojResolveAssemblyReference.cache
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\EditProfile.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_AddTwitterAccount.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_manuallink.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\FatalError.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\MyFire_HowTo.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_WelcomeScreen.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\MainWindow.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\MessageWindow.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\Support_MoreInfo.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_About.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_direct_messages.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_EditList.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_EditListMembers.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_FilterTweets.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_Lists.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_MapDialog.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_pictureviewer.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_suggestedusers.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_supportmyfire.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_TweetList.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_TweetSearchList.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_UserManagment.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_UserSearch_List.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\NotificationWindow.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\NotificationWindows\myFire_notificationwindow_general.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Settings.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\Support.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Styles_Button.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Styles_CheckBox.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Styles_TabItem.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\TrendSearch.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\TweetDialog.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\TweetDisplayDialog.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\UserProfile.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\UserSearch.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Application.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\EditProfile.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_AddTwitterAccount.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_manuallink.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\FatalError.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\MyFire_HowTo.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_WelcomeScreen.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\MainWindow.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\MessageWindow.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\Support_MoreInfo.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_About.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_direct_messages.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_EditList.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_EditListMembers.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_FilterTweets.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_Lists.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_MapDialog.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_pictureviewer.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_suggestedusers.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_supportmyfire.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_TweetList.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_TweetSearchList.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_UserManagment.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_UserSearch_List.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\NotificationWindow.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\NotificationWindows\myFire_notificationwindow_general.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Settings.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\Support.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\TrendSearch.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\TweetDialog.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\TweetDisplayDialog.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\UserProfile.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\UserSearch.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Application.g.vb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\MyFire_MarkupCompile.cache
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.g.resources
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.Resources.resources
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.vbproj.GenerateResource.Cache
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_ConversationView.baml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_ConversationView.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\MyFire.exe.config
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.exe
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.xml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.pdb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\MyFire.exe
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\MyFire.pdb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\MyFire.xml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\MyFire-data.dll
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\Twitterizer2.dll
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\Twitterizer2.Streaming.dll
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\Newtonsoft.Json.dll
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\MyFire-data.pdb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\MyFire-data.xml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\Twitterizer2.pdb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\Twitterizer2.xml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\Twitterizer2.Streaming.pdb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\Twitterizer2.Streaming.xml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\Newtonsoft.Json.pdb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\bin\Debug\Newtonsoft.Json.xml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.vbprojResolveAssemblyReference.cache
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\EditProfile.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_AddTwitterAccount.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_manuallink.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\FatalError.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\MyFire_HowTo.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_WelcomeScreen.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\MainWindow.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\MessageWindow.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\Support_MoreInfo.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_About.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_ConversationView.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_direct_messages.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_EditList.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_EditListMembers.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_FilterTweets.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_Lists.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_pictureviewer.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_suggestedusers.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_supportmyfire.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_TweetList.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_TweetSearchList.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_UserManagment.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_UserSearch_List.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\NotificationWindow.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\NotificationWindows\myFire_notificationwindow_general.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Settings.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\Support.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Styles_Button.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Styles_CheckBox.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Styles_TabItem.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\TrendSearch.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\TweetDialog.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\TweetDisplayDialog.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\UserProfile.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\UserSearch.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Application.baml
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\EditProfile.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_AddTwitterAccount.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_manuallink.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\FatalError.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\MyFire_HowTo.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_WelcomeScreen.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\MainWindow.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\MessageWindow.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\Support_MoreInfo.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_About.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_ConversationView.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_direct_messages.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_EditList.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_EditListMembers.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_FilterTweets.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_Lists.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_pictureviewer.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_suggestedusers.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_supportmyfire.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_TweetList.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_TweetSearchList.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_UserManagment.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\myFire_UserSearch_List.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\NotificationWindow.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\NotificationWindows\myFire_notificationwindow_general.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Settings.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\Support.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\TrendSearch.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\TweetDialog.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\TweetDisplayDialog.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\UserProfile.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\UserSearch.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\Application.g.vb
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\MyFire_MarkupCompile.cache
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.g.resources
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.Resources.resources
+\\LAPTOP\Users\Ian\Documents\Visual Studio 2012\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\MyFire.exe.config
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\MyFire.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\MyFire.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\MyFire.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\Twitterizer2.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\Twitterizer2.Streaming.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\Twitterizer2.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\Twitterizer2.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\Twitterizer2.Streaming.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\Twitterizer2.Streaming.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\EditProfile.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_AddTwitterAccount.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_manuallink.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\FatalError.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\MyFire_HowTo.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_WelcomeScreen.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\MainWindow.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\MessageWindow.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\Support_MoreInfo.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_About.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_ConversationView.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_direct_messages.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_EditList.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_EditListMembers.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_FilterTweets.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_Lists.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_pictureviewer.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_suggestedusers.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_supportmyfire.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_TweetList.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_TweetSearchList.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_UserManagment.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_UserSearch_List.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\NotificationWindow.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\NotificationWindows\myFire_notificationwindow_general.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Settings.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\Support.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Styles_Button.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Styles_CheckBox.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Styles_TabItem.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\TrendSearch.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\TweetDialog.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\TweetDisplayDialog.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\UserProfile.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\UserSearch.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Application.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\EditProfile.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_AddTwitterAccount.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_manuallink.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\FatalError.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\MyFire_HowTo.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Link Account Windows\myFire_WelcomeScreen.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\MainWindow.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\MessageWindow.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\Support_MoreInfo.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_About.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_ConversationView.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_direct_messages.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_EditList.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_EditListMembers.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_FilterTweets.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_Lists.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_pictureviewer.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_suggestedusers.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_supportmyfire.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_TweetList.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_TweetSearchList.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_UserManagment.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_UserSearch_List.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\NotificationWindow.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\NotificationWindows\myFire_notificationwindow_general.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Settings.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Modules\Support Methods\Support.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\TrendSearch.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\TweetDialog.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\TweetDisplayDialog.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\UserProfile.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\UserSearch.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Application.g.vb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\MyFire_MarkupCompile.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.g.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\MyFire-storage.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\MyFire-storage.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\MyFire-storage.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_unsafelink.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_unsafelink.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\MyFire-storage.dll
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\MyFire-storage.pdb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\MyFire-storage.xml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.vbprojResolveAssemblyReference.cache
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_ConversationView.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_supportmyfire.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_unsafelink.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Styles_Button.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Styles_CheckBox.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\Styles_TabItem.baml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_ConversationView.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_supportmyfire.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\myFire_unsafelink.g.vb
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.vbproj.GenerateResource.Cache
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire_VB\MyFire\bin\Debug\MyFire.exe.config
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire_VB\MyFire\obj\x86\Debug\MyFire.exe
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire_VB\MyFire\obj\x86\Debug\MyFire.xml
+C:\Users\Ian Spence\Documents\Visual Studio 2010\Projects\MyFire_VB\MyFire\obj\x86\Debug\MyFire.pdb
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\MyFire\MyFire\bin\Debug\MyFire.exe.config
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.exe
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.xml
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\MyFire\MyFire\obj\x86\Debug\MyFire.pdb
+C:\Users\Ian\Documents\GitHub\myFire\MyFire\bin\Debug\MyFire.exe.config
+C:\Users\Ian\Documents\GitHub\myFire\MyFire\obj\x86\Debug\MyFire.exe
+C:\Users\Ian\Documents\GitHub\myFire\MyFire\obj\x86\Debug\MyFire.xml
+C:\Users\Ian\Documents\GitHub\myFire\MyFire\obj\x86\Debug\MyFire.pdb

@@ -1,0 +1,16 @@
+﻿<Window x:Class="Support"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="myFire | Get Support" Height="240" Width="482" Name="Get_Support" Icon="/MyFire;component/Resources/Retro-Fire-Ball.ico" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label Content="Having trouble with myFire?  We're here to help!" Height="31" HorizontalAlignment="Left" Margin="12,12,0,0" Name="Label1" VerticalAlignment="Top" FontSize="15" Width="440" FontStyle="Italic" />
+        <Button Content="Chat with iFX Software Inc for Free!" Height="49" Margin="12,49,0,0" Name="Button1" VerticalAlignment="Top" Cursor="Hand" HorizontalAlignment="Left" Width="217" />
+        <Button Content="Submit a support ticket!" Height="49" Margin="235,49,0,0" Name="Button2" VerticalAlignment="Top" Cursor="Hand" HorizontalAlignment="Left" Width="217" />
+        <GroupBox Header="Support Information" Margin="12,104,8,11" Name="GroupBox1">
+            <Grid>
+                <Label Content="Build Version: {version}" FontSize="12" FontStyle="Italic" Height="27" HorizontalAlignment="Left" Margin="6,6,0,0" Name="BuildLabel" VerticalAlignment="Top" />
+                <Label Content="null" Cursor="Hand" FontSize="12" FontStyle="Italic" Foreground="Blue" Height="27" HorizontalAlignment="Left" Margin="6,30,0,0" Name="SupportLabel" VerticalAlignment="Top" />
+            </Grid>
+        </GroupBox>
+    </Grid>
+</Window>

@@ -1,0 +1,32 @@
+﻿<Window x:Class="myFire_FilterTweets"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="myFire | Filter Tweets" Width="300" SizeToContent="Height"
+    Icon="/MyFire;component/Resources/Retro-Fire-Ball.ico" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel>
+            <Expander Header="Tweets from user.">
+                <Grid Background="White" Height="100">
+                    <ListBox Name="list_FromUser" Margin="0,0,0,28" />
+                    <Button HorizontalAlignment="Right" Content="Remove" Name="btn_UserRemove" VerticalAlignment="Bottom" Margin="0,0,0,3" IsEnabled="False" />
+                    <Button HorizontalAlignment="Left" Content="Add" Name="btn_UserAdd" VerticalAlignment="Bottom" Margin="0,0,0,3" />
+                </Grid>
+            </Expander>
+            <Expander Header="Tweets from device.">
+                <Grid Background="White" Height="100">
+                    <ListBox Name="list_FromDevice" Margin="0,0,0,28" />
+                    <Button HorizontalAlignment="Right" Content="Remove" Name="btn_DeviceRemove" VerticalAlignment="Bottom" Margin="0,0,0,3" IsEnabled="False" />
+                    <Button HorizontalAlignment="Left" Content="Add" Name="btn_DeviceAdd" VerticalAlignment="Bottom" Margin="0,0,0,3" />
+                </Grid>
+            </Expander>
+            <Expander Header="Tweets containing.">
+                <Grid Background="White" Height="100">
+                    <ListBox Name="list_WithWord" Margin="0,0,0,28" />
+                    <Button HorizontalAlignment="Right" Content="Remove" Name="btn_WordRemove" VerticalAlignment="Bottom" Margin="0,0,0,3" IsEnabled="False" />
+                    <Button HorizontalAlignment="Left" Content="Add" Name="btn_WordAdd" VerticalAlignment="Bottom" Margin="0,0,0,3" />
+                </Grid>
+            </Expander>
+            <Button Content="Apply" Name="ApplyBTN" />
+        </StackPanel>
+    </Grid>
+</Window>
