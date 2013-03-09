@@ -1,2 +1,2 @@
 # myFire
-Introducing myFire, the perfect mix of ease of use and performance. Weather you are a power user, every-day tweeter, or just made your account a few minutes ago myFire was built with you in mind.
+myFire is a desktop Twitter client built in VB.NET and C# using a modified version of Twitterizer.
